@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(127): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(138): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[10]'
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(138): warning C4024: 'reverse': different types for formal and actual parameter 1
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(138): warning C4024: 'reverse': different types for formal and actual parameter 2
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(146): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(24): warning C4716: 'mystrcpy': must return a value
+c:\users\ivanb\desktop\spa\vjezba0\vjezba0\main.c(57): warning C4716: 'mystrcat': must return a value
+  vjezba0.vcxproj -> C:\Users\ivanb\Desktop\SPA\vjezba0\Debug\vjezba0.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ivanb\desktop\spa\vjezba1_final\vjezba1_final\main.c(101): warning C4101: 'niz1': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba1_final\vjezba1_final\main.c(104): warning C4101: 'i': unreferenced local variable
+  vjezba1_final.vcxproj -> C:\Users\ivanb\Desktop\SPA\vjezba1_final\Debug\vjezba1_final.exe

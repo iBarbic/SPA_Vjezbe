@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(35): warning C4101: 'total': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(61): warning C4101: 'total': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(61): warning C4101: 't': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(93): warning C4101: 'total': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(93): warning C4101: 't': unreferenced local variable
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(122): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ivanb\desktop\spa\vjezba3\vjezba3\main.c(147): warning C4098: 'main': 'void' function returning a value
+  vjezba3.vcxproj -> C:\Users\ivanb\Desktop\SPA\vjezba3\Debug\vjezba3.exe

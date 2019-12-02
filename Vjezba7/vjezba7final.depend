@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1548157314 source:c:\users\ivanb\desktop\vjezbe\vjezba7final\main.c
+	<stdio.h>
+	<ctype.h>
+	"bstree.h"
+
+1548157575 c:\users\ivanb\desktop\vjezbe\vjezba7final\bstree.h
+	<string.h>
+
+1548158110 source:c:\users\ivanb\desktop\vjezbe\vjezba7final\bstree.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"bstree.h"
+

@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ivanb\desktop\spa\vjezba4_final\vjezba4_final\main.c(9): warning C4013: 'time' undefined; assuming extern returning int
+  Vjezba4_final.vcxproj -> C:\Users\ivanb\Desktop\SPA\Vjezba4_final\Debug\Vjezba4_final.exe
